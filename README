@@ -1,9 +1,9 @@
 The code can be found in scripts/
 
-The temporal embeddings are in temporal_embeddings.zip
+Todo: add a link to dataverse.
 
-The newspaper specific temporal embeddings are in source_embeddings.zip
+If you consider using the code from the repo or the data that's released for this project, please consider citing our paper.
 
-The original data is from Accessible archives (https://www.accessible-archives.com/) which cannot be publicly released under the terms of condition of our aggreement. 
+Todo: add bibtex entry
 
 Please contact Sandeep Soni (soni.sandeepb@gmail.com) or Lauren Klein (lklein@gmail.com) for any inquiries about the data or code.
