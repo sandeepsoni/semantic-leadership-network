@@ -7,7 +7,7 @@ If you want to use the code developed for the [cultural analytics paper](https:/
 For the cultural analytics paper, we modified this Java code to emit output embeddings and include an additional facet.
 This modification is available in the form of a pull request (as of 3/31/2022) [here](https://github.com/dbamman/geoSGLM/pull/3).
 
-If you're interested in the processed data, i.e., the embeddings from the data used in the paper, it can all be downloaded from [this link] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EWYMFG)
+If you're interested in the processed data, i.e., the embeddings from the data used in the paper, it can all be downloaded from [this link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EWYMFG)
 
 
 Cite
