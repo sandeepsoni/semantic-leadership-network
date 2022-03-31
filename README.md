@@ -10,6 +10,8 @@ This modification is available in the form of a pull request (as of 3/31/2022) [
 If you're interested in the processed data, i.e., the embeddings from the data used in the paper, it can all be downloaded from [this link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EWYMFG)
 
 * Next, semantic changes are learned by running [`pipeline_temporal.sh`](https://github.com/sandeepsoni/semantic-leadership-network/blob/main/scripts/pipeline_temporal.sh)
+* Next, the leadership stats are calculated by running [`pipeline_sources.sh`](https://github.com/sandeepsoni/semantic-leadership-network/blob/main/scripts/pipeline_sources.sh)
+* Finally, the randomization experiments are calculated by running [`pipeline_randomization.sh`](https://github.com/sandeepsoni/semantic-leadership-network/blob/main/scripts/pipeline_randomization.sh)
 
 Cite
 ====
